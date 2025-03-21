@@ -12,7 +12,9 @@ category:
   course: cstsi
   campus: ifpb-jp
 tags:
-  - angular
+  - kotlin com node
+  - express
+  - cors no backend
 owners:
   - 20192370040
   - 20192370034
